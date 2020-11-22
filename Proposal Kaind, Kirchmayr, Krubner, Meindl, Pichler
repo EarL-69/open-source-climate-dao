@@ -1,0 +1,54 @@
+TASK #12: PRODUCT IDEAS
+Expertise needed: Sales, Consumer Marketing, Product Managers, Climate Activists, …
+
+1.	Discuss potential products which use blockchain emissions accounting, such as virtual renewable energy for homes & offices, zero carbon transportation with offsets, etc.
+Certificate for Suppliers and Businesses with branch-dependent grades incl. digital Platform for Emission Data-Exchange, -Creation and -Viewing. We provide a service (license) that businesses can use for marketing purposes, to show their customers how eco-friendly they are. As a result, the trusted license shows potential customers exactly how “green” the business is, maybe on a scale from 1 to 10 or something like that. The data we provide (emissions per item) can be used to promote the product even further. 
+To gain the license the companies need to show how they embedded emission accounting into their company, in order that all emission rates are taken into consideration, shown transparently and unable to modify data from the past.
+They need to consider all their incoming goods and how much CO2-emission it is already on those products. Every worker, who is directly and indirectly working on the products needs to be considered and their CO2-Emission they set free coming to work by car, bike, train and so on. In addition, all the used and produced (solar-energy, wind-power, …) energy needs to be considered.
+Direct labor can be calculated direct on the product and indirect labor needs to be distributed among all outgoing products.
+At the end it needs to be secured, that every occurred emission is taken into consideration and is distributed to the products in order that 0 kilograms stay remaining at the companies overhead. With the license we want to ensure and guarantee to all the potential users, that they know eactly, how much CO2 is on which product in order to compare the product emission with others.
+The idea is, that the current owner of the product is also the owner of the CO2 emissions. So, it can be ensured, that the emission is passed throw the whole supply-chain, even from one company to the other. So if one company is sending something to another company the hauler is taking the product and the corresponding emissions into his system, ads his own emissions for the transport and forwards the whole emission (for the product and transport) when he passes on the product to the destination-company. This system should be used until it reaches the end-customer, where he takes the CO2-emission into his account.
+ 
+Figure 2: Hyperledger Certification Logo for Businesses	 
+Figure 3: Example Emissions by Sector
+
+
+2.	Who are the potential users?
+Businesses who want to show their customers how eco-friendly they are and what they exactly do against climate change and simultaneously show their customers the track of where the product they buy comes from. They basically need to add up all the emissions of the products they provide. Subtracted can be for example power from solar energy and green energy in general. Nearly every supplier that has permission to our block-chain can input and exchange data in our system, so we also need to include the whole supply-chain of our customers. 
+For example, if a business sells glass-straws: They can mention that for each straw you sell, the customer would otherwise consume a certain amount of plastic straws that have summed up in comparison way higher emissions. As a result, the customer would save a certain amount of emissions per item they buy. That’s also good for positive karma!
+The end-customers can view the data, collected by us and provided by the suppliers and the selling business. An overarching goal is to create awareness of climate change in society and contribute through the change of certain parts in the supply chain. This awareness could lead to a more regional ecosystem with regional vendors, vendees and even end-customers.  End-customers who are aware of the climate change and want to contribute in a good way, prefer businesses that also focus on that. Therefore, both parties benefit from this network.
+Furthermore, the government or the state can also use our certifications as a basis for a governmental support. Only when certain environmental requirements are met can companies apply for subsidies, which again would contribute to a more regional ecosystem and save CO2 emissions.
+
+3.	How do they benefit?
+•	Costumers and other suppliers can transparently see how “green” a company is and how they implement climate protection measures. Imagine some kind of certificate like ISO 9000, ISMS 27001, …. 
+•	A company that already focuses on environmental friendliness and sustainability could prove this much more trustworthy and sustainable way and even show that to their customers, what may generate additional customers
+•	Customers can trust the seller on where their product comes from as the blockchain casually implements the possibility to exactly track the supply chain for every individual product. 
+•	Mainly it is used in a B2B business to create competitive advantages and to distinguish a business from its competition. Potential customers can be convinced by scoring points with a sustainable value chain and the “right” vision.
+•	Businesses can create strategic Product-Differentiation-Advantages and therefore generate a Competitive advantage in an industry with a low CO emission
+•	We create awareness for climate protection. Supply chains of different products can be viewed, analyzed and traced. Over a certain period of time these supply chains will be optimized and improved with regards to cost-saving and CO2 emission by the suppliers.
+•	The government would benefit from our product idea because we advocate a green value chain and make society and companies aware of climate change.
+•	The government could benefit in order to reach the climate goal much better and sustainable.
+
+4.	How would they access the system?
+•	Businesses: We are the Exhibitor and after specific circumstances we grant those certificates to selected individuals. Businesses must ensure that their value chain is sustainable to be equipped with our certification. Signed certificates can be viewed in detail at our Website (TBD). 
+•	End-customer: Our costumer gets a signed document which can be shared to all the stakeholders. Customers have insight into the emissions in the value chain, can inform themselves about our platform and make comparisons between different products or even competitors.
+•	Supply Chain: Data is automatically provided through pre-defined APIs on the supply chain side. Only permitted and trusted users have access to these APIs. The shared data can be accessed through our system for analyzing or calculation purposes.
+For example, the electricity meter would write data into the emission accounting system of the company every day automatically. A photovoltaic-inverter would need to have a REST-API, the Wind-Turbine.
+More complicated is the tracking of the employee-cars, where an intelligent system would be needed, or a user, who does this manually.
+Also, the haulers would need, some kind of intelligent system for their transporters, which automatically calculates the occurred emission for the product. With the signature of the destination-customer of the product the customer would acquire all product-related emissions into his system.
+
+5.	What is the unique value added of blockchain technology?
+Most blockchains are designed as a decentralized database that acts as a distributed digital ledger. These blockchain ledgers collect and store data in blocks organized in a chronological order and connected by cryptographic evidence. The development of blockchain technology has brought many benefits to a wide range of industries and provides greater security in low-trust environments.  
+Redundancy:
+•	Since blockchain data is often stored on thousands of devices in a distributed network of nodes, the system and data are highly resistant to technical failures and malicious attacks. Each network node is capable of replicating and storing a copy of the database, so there is no central point of failure.
+Stability:
+•	Confirmed blocks are very difficult to undo, so it is extremely complicated to remove or change them after registering data. This makes the blockchain an excellent technology for storing financial records or other data where an audit trail is required as in our use-case. Each change is tracked and permanently recorded in a distributed and public ledger.
+Trusted System:
+•	Blockchain is decentralized and transparent to all users, which is very important to guarantee that our certificates are granted to the right companies.
+•	The Blockchain is permitted, only specific users can store data, but everyone can see the data and records.
+•	The distributed network of nodes verifies transactions through a process called mining. For this reason, blockchain is often referred to as a "trustless" system.
+•	Open source → Transparency → Trust
+•	As Trust at itself is the most important aspect in terms of advantages of blockchains, this is the USP of the blockchain. This is a unique value, that no central party can offer: There is no central trust-party needed to keep the system running.
+
+6.	What is the right business model to support the products?
+Our revenue stream comes through the whole certification process. Our customers must implement certain optimizations in terms of climate pollution in order to qualify where we can also guide them though. We provide the guiding process to improve processes and also to earn some revenue, which we can in return invest in our vision. We analyze the data and give insights and recommendations, in order for the businesses to get the signed climate certificate. Depending on the performance of different parameters our customers receives an individual score. The license has to be updated every three years or so.
